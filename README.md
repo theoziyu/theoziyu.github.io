@@ -1,2 +1,0 @@
-# theoziyu.github.io
-web
